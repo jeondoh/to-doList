@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/-typescript 4.5.4-3178C6?style=plastic&logo=Typescript&logoColor=white"/>
 
 ### npm (CRA project to typescript)
+- react-hook-form: 7.24.2
 - styled-components: 5.3.3
 - recoil: 0.5.2
 
