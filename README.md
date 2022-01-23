@@ -9,8 +9,6 @@
 - recoil: 0.5.2
 
 ### Dev List
-- [x] Create and delete boards
 - [x] Create and delete lists
-- [x] Drag and drop lists
 - [x] LocalStorage
 - [x] darkMode (LightMode Toggle)
